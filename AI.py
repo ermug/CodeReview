@@ -2,7 +2,7 @@ import os
 import google.generativeai as genai
 
 # Send our API Key to google for authentication
-GOOGLE_API_KEY = "AIzaSyDcx80pzVdDVBFrjDWqRord4Ru7aArAA84"
+GOOGLE_API_KEY = "BIzaSyDcx80pzVdDVBFrjDWqRord4Ru7aArAA84"
 genai.configure(api_key=GOOGLE_API_KEY)
 
 # Creates a chat using a gemini model
